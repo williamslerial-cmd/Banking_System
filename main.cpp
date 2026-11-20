@@ -1,8 +1,6 @@
 // ============================================
 // GGC BANK - Banking System
-// Introduction to Programming NQF 4
-// Uses: functions, decision making, loops, arrays
-// ============================================
+// Introduction to Programming NQF 4 ============================================
 #include <iostream>
 #include <string>
 using namespace std;
